@@ -1,5 +1,6 @@
 # AI-Based-Attendence-System
 AI-powered facial recognition attendance system featuring blink-based liveness detection, role-based access control, and a Python/Flask management dashboard.
+
 <img width="822" height="352" alt="image" src="https://github.com/user-attachments/assets/8f33ae70-fd09-4ef0-882b-55edbcaf6ede" />
 
 ## The Problem: 
